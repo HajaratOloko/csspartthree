@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#wrap{
+    display: flex;
+    background-color: darkslateblue;
+    margin-left: 250px;
+}
+#nav{
+    background-color: darkturquoise;
+    width: 150px;
+    height: 450px;
+    margin-left: 35px;
+    padding-top: 35px;
+    padding-left: 10px;
+
+}
+div{
+    width: 50%;
+    height: 550px;
+}
+#content{
+    background-color: lightblue;
+    width: 550px;
+    padding: 40px;
+    height: 405px;
+    text-align: center;
+}
+.copyright{
+    margin-top: 120px;
+}
